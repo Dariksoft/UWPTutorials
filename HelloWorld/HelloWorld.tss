@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\my programming\uwp tuts\helloworld\helloworld\app.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\my programming\uwp tuts\helloworld\helloworld\mainpage.xaml</string>
+      <string>D:\My Programming\UWP Tuts\HelloWorld\HelloWorld\MainPage.xaml.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
