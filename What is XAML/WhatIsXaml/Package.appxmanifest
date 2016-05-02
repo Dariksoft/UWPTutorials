@@ -3,7 +3,7 @@
   <Identity Name="8e3004d9-068b-49ba-88c5-c410cc07c818" Publisher="CN=ramin" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="8e3004d9-068b-49ba-88c5-c410cc07c818" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>HelloWorld</DisplayName>
+    <DisplayName>WhatIsXaml</DisplayName>
     <PublisherDisplayName>ramin</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
