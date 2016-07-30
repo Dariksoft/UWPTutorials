@@ -5,11 +5,8 @@
       <string>WhatIsXaml</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>d:\my programming\uwp tuts\windows-10-development-for-absolute-beginners\what is xaml\whatisxaml\package.appxmanifest</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>d:\my programming\uwp tuts\windows-10-development-for-absolute-beginners\what is xaml\whatisxaml\mainpage.xaml</string>
-      <string>D:\My Programming\UWP Tuts\Windows-10-Development-for-Absolute-Beginners\What is XAML\WhatIsXaml\MainPage.xaml.cs</string>
+      <string>D:\My Programming\UWP Tuts\Windows-10-Development-for-Absolute-Beginners\What is XAML - Modified For Lesson 6\WhatIsXaml\MainPage.xaml</string>
+      <string>D:\My Programming\UWP Tuts\Windows-10-Development-for-Absolute-Beginners\What is XAML - Modified For Lesson 6\WhatIsXaml\MainPage.xaml.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
