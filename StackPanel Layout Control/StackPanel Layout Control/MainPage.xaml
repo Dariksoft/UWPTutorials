@@ -1,0 +1,25 @@
+﻿<Page x:Class="StackPanel_Layout_Control.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:StackPanel_Layout_Control"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+
+
+    <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <TextBlock>First</TextBlock>
+            <TextBlock>Second</TextBlock>
+            <TextBlock>Third</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Fourth</TextBlock>
+                <TextBox />
+                <Button>Sixth</Button>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Height="200">
+            <Rectangle Height="100" Fill="Red" />
+        </StackPanel>
+    </StackPanel>
+</Page>
